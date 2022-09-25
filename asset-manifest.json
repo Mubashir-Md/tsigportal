@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tsigportal/static/css/main.7610dbdd.css",
+    "main.js": "/tsigportal/static/js/main.478aa29c.js",
+    "index.html": "/tsigportal/index.html",
+    "main.7610dbdd.css.map": "/tsigportal/static/css/main.7610dbdd.css.map",
+    "main.478aa29c.js.map": "/tsigportal/static/js/main.478aa29c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7610dbdd.css",
+    "static/js/main.478aa29c.js"
+  ]
+}
